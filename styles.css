@@ -43,6 +43,35 @@
     font-size: 16px;
 }
 
+.text_just {
+    font-family: 'Titillium Web', Roboto, Helvetica, Arial;
+    font-size: 16px;
+    text-align: justify;
+}
+
+.sectitle {
+    font-family: 'Titillium Web', Roboto, Helvetica, Arial;
+    font-size: 24px;
+}
+
+.place {
+    font-family: 'Titillium Web', Roboto, Helvetica, Arial;
+    font-size: 16px;
+    text-align: right;
+}
+
+.doclink {
+    font-family: 'Titillium Web', Roboto, Helvetica, Arial;
+    font-size: 16px;
+    text-align: right;
+}
+
+.time {
+    font-family: 'Titillium Web', Roboto, Helvetica, Arial;
+    font-size: 16px;
+    text-align: right;
+}
+
 .addinfo {
     font-family: 'Titillium Web', Roboto, Helvetica, Arial;
     font-size: 16px;
