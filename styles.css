@@ -49,6 +49,13 @@
     text-align: justify;
 }
 
+.text_emph {
+    font-family: 'Titillium Web', Roboto, Helvetica, Arial;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+
 .sectitle {
     font-family: 'Titillium Web', Roboto, Helvetica, Arial;
     font-size: 24px;
