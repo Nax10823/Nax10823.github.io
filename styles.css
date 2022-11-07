@@ -36,6 +36,7 @@
 .name {
     font-family: 'Titillium Web', Roboto, Helvetica, Arial;
     font-size: 32px;
+    text-align: center;
 }
 
 .text {
